@@ -1,6 +1,8 @@
 # COP (Check Oversubscription Performance)
 ## Description
 This program shows the performance according to the degree of oversubscription when unified memory is used during cuda programming. If you use this tool, you can get a best degree of oversubscription. It is based on Rodinia 3.1 benchmark.
+## Environment (Important!!)
+You must use NVIDIA-A100 GPU in your environment. (All environment settings are set up for that GPU)
 ## How to use
 1. Download Rodinia 3.1 at [here](http://lava.cs.virginia.edu/Rodinia/download.htm).
 2. Unzip rodinia_3.1.tar.bz
