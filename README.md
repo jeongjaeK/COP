@@ -16,4 +16,7 @@ $cd rodinia3.1/cuda/
 ```
 $./chk_oversubscription_performance.sh [app_name] [percentage]
 ```
+* Parameters
+  * app_name: bfs, gaussian, hotspot3D, pathfinder
+  * percentage: 0-100
 ## Example
